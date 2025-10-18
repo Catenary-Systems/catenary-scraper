@@ -1,4 +1,5 @@
 ﻿# Catenary Scraper Utility
+![cwslogo]([http://url/to/img.png](https://raw.githubusercontent.com/Catenary-Systems/catenary-scraper/refs/heads/main/cwslogo.png))
 ### Scraping tool For xe.gr and soon spitogatos.gr
 
 ## Features
@@ -19,3 +20,4 @@
 
 ## CAUTION
 Python **IS MANDATORY**
+
